@@ -27,14 +27,14 @@ A python command-line task manager with MySQL database integration.
 
 ### 2. Set Up MySQL
 1. Start MySQL server
-2. Run the database setup script:
+2. Run the database setup script in cmd/bash:
    ```bash
    mysql -u root -p < database_setup.sql
 
 ### 3. In terminal install requirements
-   type in terminal:
+   ```bash
       pip install -r requirements.txt
 
 ### 4. Run the application
-   type in terminal:
+   ```bash
       python task_manager.py
