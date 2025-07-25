@@ -31,10 +31,11 @@ A python command-line task manager with MySQL database integration.
    ```bash
    mysql -u root -p < database_setup.sql
 
-### 3. In terminal install requirements
+### 3. Complete the setup
+3. In terminal install requirements
    ```bash
       pip install -r requirements.txt
 
-### 4. Run the application
+4. Run the application:
    ```bash
       python task_manager.py
