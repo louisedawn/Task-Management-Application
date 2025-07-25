@@ -10,7 +10,6 @@ A python command-line task manager with MySQL database integration.
 - Update task details
 - Mark tasks as completed
 - Delete tasks
-- Persistent storage in MySQL database
 
 
 ## Requirements
